@@ -2,27 +2,27 @@
   "name": "black-iris",
   "displayName": "Black Iris",
   "description": "A pastel coloured dark theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "p-yukusai",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/p-yukusai/black-iris-vscode.git"
+		"type": "git",
+		"url": "https://github.com/p-yukusai/black-iris-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/p-yukusai/black-iris-vscode/issues"
+		"url": "https://github.com/p-yukusai/black-iris-vscode/issues"
   },
   "engines": {
     "vscode": "^1.13.0"
   },
   "keywords": [
-    "black",
-    "iris",
-    "black iris",
-    "dark",
-    "theme",
-    "color-theme",
-    "pastel"
+		"black",
+		"iris",
+		"black iris",
+		"dark",
+		"theme",
+		"color-theme",
+		"pastel"
   ],
   "categories": [
     "Themes"
@@ -38,5 +38,3 @@
     ]
   }
 }
-
-
