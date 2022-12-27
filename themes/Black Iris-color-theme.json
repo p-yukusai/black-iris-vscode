@@ -1949,7 +1949,7 @@
     "editorBracketMatch.background": "#ab9df21a",
     "editorBracketMatch.border": "#ab9df21c",
     "editor.foldBackground": "#c678dd1c",
-    "editorOverviewRuler.background": "#f7f7f700",
+    "editorOverviewRuler.background": "#24242400",
     "editorOverviewRuler.border": "#7f7f7f4d",
     "editorError.foreground": "#fa3232",
     "editorError.background": "#171717",
